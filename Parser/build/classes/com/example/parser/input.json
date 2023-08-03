@@ -1,0 +1,41 @@
+[
+	{
+     "lastName":"Smith",
+    "address":{
+        "streetAddress":"21 2nd Street",
+         "city":"New York",
+         "state":"NY",
+         "postalCode":10021
+    },
+     "age":25,
+     "phoneNumbers":[
+            {
+            "type":"home", "number":"212 555-1234"
+            },
+         {
+            "type":"fax", "number":"212 555-1234"
+         }
+     ],
+     "firstName":"John"
+	},
+	{
+    "lastName":"Richard",
+    "address":{
+        "streetAddress":"22 2nd Street",
+         "city":"New York",
+         "state":"NY",
+         "postalCode":10023
+    },
+     "age":27,
+     "phoneNumbers":[
+            {
+            "type":"home", "number":"212 555-5678"
+            },
+         {
+            "type":"fax", "number":"212 555-5678"
+         }
+     ],
+     "firstName":"Paul"
+	}
+
+]

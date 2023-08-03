@@ -1,0 +1,33 @@
+<users>
+    <user>
+        <name>John Doe</name>
+        <age>19</age>
+        <isStudent>true</isStudent> 
+        <dept>CSE</dept> 
+        
+    </user>
+    <user>
+        <name>Jane Smith</name>
+        <age>20</age>
+        <isStudent>false</isStudent>
+        <dept>IT</dept> 
+    </user>
+    <user>
+        <name>Alan</name>
+        <age>19</age>
+        <isStudent>true</isStudent>
+        <dept>CSE</dept> 
+    </user>
+    <user>
+        <name>Hazel</name>
+        <age>20</age>
+        <isStudent>true</isStudent>
+        <dept>ECE</dept> 
+    </user>
+    <user>
+        <name>Parker</name>
+        <age>19</age>
+        <isStudent>true</isStudent>
+        <dept>CSE</dept> 
+    </user>
+</users>
